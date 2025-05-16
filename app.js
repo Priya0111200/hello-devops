@@ -1,4 +1,4 @@
 function greet(){
 return"hellow from devops!";
 }
-Module.export=greet;
+module.export=greet;
